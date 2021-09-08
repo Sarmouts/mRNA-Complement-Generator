@@ -36,7 +36,7 @@ string basePairs(string base)
 }
 int main()
 {
-	cout << "Welcome to MathFlare's early access DNA chain calculator" << endl;
+	cout << "Welcome to MathFlare's early access mRNA Complement Generator" << endl;
 	cout << "--------------------------------------------------------" << endl;
 	while (true)
 	{
